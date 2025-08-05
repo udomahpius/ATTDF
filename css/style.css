@@ -549,7 +549,7 @@
         border-radius: 10px;
         transition: .5s;
         opacity: 0;
-        transition: ease-in-out 2s;
+        /* transition: ease-in-out 2s; */
     }
 }
 
