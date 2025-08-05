@@ -571,7 +571,7 @@
     .sticky-top {
         position: fixed;
         background: var(--bs-white);
-        transition: ease-in-out 2s;
+        transition: ease-in-out 1s;
     }
 
     .navbar.navbar-expand-lg .navbar-toggler {
