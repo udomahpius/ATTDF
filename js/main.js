@@ -33,6 +33,9 @@
         delay: 5,
         time: 2000
     });
+  const glightbox = GLightbox({
+    selector: '.glightbox'
+  });
 
 
     // Modal Video
