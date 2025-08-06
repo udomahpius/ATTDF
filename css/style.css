@@ -684,6 +684,7 @@
         position: fixed;
         background: var(--bs-white);
         transition: ease-in-out 1s;
+        width: 100%;
     }
 
     .navbar.navbar-expand-lg .navbar-toggler {
