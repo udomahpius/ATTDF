@@ -29,6 +29,7 @@
   --accent-color: #094552; 
   --surface-color: #ffffff; 
   --contrast-color: #ffffff; 
+  --text-logo:#7c5d9e;
 }
 
 :root {
@@ -57,6 +58,10 @@
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
+}
+
+.logo-text{
+    color: var(--text-logo);
 }
 
 .pulsating-play-btn {
