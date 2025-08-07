@@ -29,7 +29,7 @@
   --accent-color: #094552; 
   --surface-color: #ffffff; 
   --contrast-color: #ffffff; 
-  --text-logo:#7c5d9e;
+  --text-logo:#8c5194;
 }
 
 :root {
@@ -1046,14 +1046,14 @@
 }
 
 .features .feature-item .feature-icon {
-    width: 120px; 
-    height: 120px;
+    /* width: 120px; 
+    height: 120px; */
     border-radius: 10px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: var(--bs-light);
+    /* background: var(--bs-light); */
     transition: 0.5s;
 }
 
