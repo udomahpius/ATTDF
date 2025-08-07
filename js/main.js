@@ -147,3 +147,11 @@
 
 })(jQuery);
 
+
+
+
+// javascript
+
+document.querySelector(".contact-link").addEventListener("click", (() =>{
+    window.location.assign("/contact.html")
+}))
