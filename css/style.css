@@ -986,6 +986,15 @@
     background-size: cover;
     padding: 100px 0 60px 0;
 }
+.bg-about-page {
+    background: linear-gradient(rgba(4, 19, 30, 0.9), rgba(0, 58, 102, 0.8)), url(../img/img-26.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-size: cover;
+    padding: 100px 0 60px 0;
+}
+
 .bg-breadcrumb-partnership {
     background: linear-gradient(rgba(4, 19, 30, 0.9), rgba(0, 58, 102, 0.8)), url(../img/img-17.jpg);
     background-position: center center;
@@ -995,7 +1004,7 @@
     padding: 100px 0 60px 0;
 }
 .bg-breadcrumb-partnership-home-bg {
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(7, 3, 19, 0.8)), url(../img/img-10.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(7, 3, 19, 0.8)), url(../img/img-5.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: initial;
