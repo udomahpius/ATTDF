@@ -36,8 +36,8 @@ const partnershipItem = [
     },
     {
         id:8,
-        download:`<a href="../img/attdf-8.jpg" download="../img/attdf-8.jpg" class="text-white">Download</a>`,
-        img:"../img/attdf-8.jpg"
+        download:`<a href="../img/attdf-12.jpg" download="../img/attdf-8.jpg" class="text-white">Download</a>`,
+        img:"../img/attdf-12.jpg"
     },
     {
         id:9,
@@ -56,8 +56,8 @@ const partnershipItem = [
     },
     {
         id:12,
-        download:`<a href="../img/attdf-12.jpg" download="../img/attdf-12.jpg" class="text-white">Download</a>`,
-        img:"../img/attdf-12.jpg"
+        download:`<a href="../img/attdf-8.jpg" download="../img/attdf-12.jpg" class="text-white">Download</a>`,
+        img:"../img/attdf-8.jpg"
     },
     {
         id:13,
@@ -104,7 +104,7 @@ const displayItem = (() =>{
                         <div class="blog-item wow fadeIn" data-wow-delay="0.1s">
                             <div class="blog-img position-relative overflow-hidden">
                                 <img src=${img} class="img-fluid w-100 glightbox " alt="img">
-                                <div class="bg-primary d-inline px-3 py-2 text-center text-white position-absolute top-0 end-0">${download}</div>
+                                // <div class="bg-primary d-inline px-3 py-2 text-center text-white position-absolute top-0 end-0"></div>
                             </div>
                         </div>
                     </div>
