@@ -48,7 +48,7 @@
 }
 
 .dark-background {
-  --background-color: #060606;
+  --background-color: #0a010f;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #252525;
@@ -117,7 +117,7 @@
 .team .team-img {
     height: 100%;
     padding: 25px;
-    background: var(--bs-white);
+    /* background: var(--bs-white); */
     overflow: hidden;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
 }
@@ -978,6 +978,16 @@
 
 
 /*** Single Page Hero Header Start ***/
+.bg-investment {
+    background: linear-gradient(rgba(4, 19, 30, 0.9), rgba(0, 58, 102, 0.8)), url(../img/img-18.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-size: cover;
+    padding: 100px 0 60px 0;
+    background-attachment: fixed;
+}
+
 .bg-breadcrumb {
     background: linear-gradient(rgba(4, 19, 30, 0.9), rgba(0, 58, 102, 0.8)), url(../img/breadcrumb.png);
     background-position: center center;

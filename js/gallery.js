@@ -293,7 +293,7 @@ const displaygallary = (() =>{
                             </div>
                             <div class="p-4">
                                 <p class="mb-0">${text}</p>
-                                <a >${download}</a>
+                                <a ></a>
                             </div>
                         </div>
          </div>

@@ -154,4 +154,5 @@
 
 document.querySelector(".contact-link").addEventListener("click", (() =>{
     window.location.assign("/contact.html")
+    // window.location.href("/contact.html")
 }))
