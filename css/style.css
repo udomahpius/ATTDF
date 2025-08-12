@@ -574,7 +574,24 @@
     background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/carousel-2.jpg) left center no-repeat;
     background-size: cover;
 }
-
+.popup-component {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/logo-removebg-preview.png) left center no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width: 700px) {
+    .media-img-width img{
+        width: 100%;
+    }
+    .media-img-width h1{
+        font-size: 100%;
+    }
+}
+.opacity{
+    opacity: 0.9;
+}
+.line-hight{
+    line-height: 2px;
+}
 
 
 /*--------------------------------------------------------------
