@@ -275,6 +275,37 @@ const partnershipgallary = [
         download:`<a href="../img/img-46.jpg" download="../img/img-46.jpg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
         img:"../img/img-46.jpg"
     },
+    {
+        id:47,
+        text:"",
+        download:`<a href="../img/img-46.jpg" download="../img/img-46.jpg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/img-47.jpg"
+    },
+   
+    {
+        id:48,
+        text:"ATTDF Trainee that turns instructor on practical",
+        download:`<a href="../img/img-46.jpg" download="../img/img-46.jpg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/img-48.jpg"
+    },
+    {
+        id:49,
+        text:"Our  instrumentation / Control Expert, knowledgeable in renewable energy, industrial electrical expertise, and wide engineering concerns on duty.",
+        download:`<a href="../img/img-46.jpg" download="../img/img-46.jpg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/img-49.jpg"
+    },
+    {
+        id:50,
+        text:"Expert  instructor in the field",
+        download:`<a href="../img/img-46.jpg" download="../img/img-46.jpg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/img-50.jpg"
+    },
+     {
+        id:51,
+        text:"",
+        download:`<a href="../img/img-46.jpg" download="../img/img-46.jpg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/img-51.jpg"
+    },
 ]
 
 
