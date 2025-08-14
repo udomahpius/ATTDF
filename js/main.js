@@ -152,7 +152,16 @@
 
 // javascript
 
-document.querySelector(".contact-link").addEventListener("click", (() =>{
+document.querySelector(".contact-link-index").addEventListener("click", (() =>{
+    window.location.assign("/contact.html")
+}))
+document.querySelector(".contact-link-about").addEventListener("click", (() =>{
+    window.location.assign("/contact.html")
+}))
+document.querySelector(".contact-link-partnership").addEventListener("click", (() =>{
+    window.location.assign("/contact.html")
+}))
+document.querySelector(".contact-link-gallery").addEventListener("click", (() =>{
     window.location.assign("/contact.html")
 }))
 
