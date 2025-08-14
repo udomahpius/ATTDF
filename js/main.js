@@ -169,3 +169,4 @@ document.querySelector(".contact-link-gallery").addEventListener("click", (() =>
 // function showpic(){
 //    document.querySelector(".anchorPic").innerHTML = "hello"
 // }
+
